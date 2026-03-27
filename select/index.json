@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "From the beginning You and I",
+  "base_artist": "BOL4",
+  "createdAt": "2026-03-27T15:20:42.203670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "From the beginning You and I",
+      "artist": "BOL4",
+      "has_synced": true,
+      "path": "select/01_From_the_beginning_You_and_I_BOL4.lrc"
+    }
+  ]
+}
